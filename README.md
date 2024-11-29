@@ -6,7 +6,7 @@
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
    </a>
     
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Zubair Moosani;I'm+a+Full+Stack+Developer;Nice+to+see+youツ)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Zubair+Moosani;I'm+a+Full+Stack+Developer;Nice+to+see+youツ)
 
    <br>
 
@@ -37,7 +37,7 @@
    <!-- <img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="./img/nestjs.svg">
    <img align="center" alt="Logo do Docker" height="30" width="40" title="Docker" src="./img/docker.svg"> -->
    <img align="center" alt="Logo do MongoDb" height="30" width="40" title="MongoDb" src="./img/mongodb.svg">
-   <img align="center" alt="Logo do Redis" height="30" width="40" title="Redis" src="./img/redis.svg">
+   <!-- <img align="center" alt="Logo do Redis" height="30" width="40" title="Redis" src="./img/redis.svg"> -->
    <img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="./img/firebase.svg">
    <img align="center" alt="Logo do GCP" height="30" width="40" title="Google Cloud Platform" src="./img/gcp.svg">
    <img align="center" alt="Logo do AWS" height="30" width="40" title="AWS" src="./img/aws.svg">
